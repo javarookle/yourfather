@@ -1,12 +1,12 @@
 ---
-title: "your father"
+title: "Gragon Ball"
 output:
   html_document:
     df_print: paged
 ---
 
-Welcome to my website!  
-I am a student at SUSTech, my research is about 11111.
+<font size="3" color="red">Welcome to the Gragon Ball website!  
+This website will exhibit beautiful illustrations of the Dragon Ball</font>
 
 <img src="11.jpg" alt="drawing" width="400"/>
 
